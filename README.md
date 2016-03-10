@@ -40,3 +40,4 @@ RETURN
 
 ## References
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
+2. [Irish Political Maps](http://irishpoliticalmaps.blogspot.be/2015/06/confirmed-candidates-for-next-general_3.html), candidate lists
