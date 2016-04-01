@@ -2701,3 +2701,16 @@ Storage files: (filename : modification date - size)
 2016-03-31 17:19:03.785+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
 2016-03-31 17:19:06.581+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED START ---
 2016-03-31 17:19:09.189+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED END ---
+2016-03-31 18:11:27.379+0000 INFO  [o.n.k.i.f.GraphDatabaseFacade] Shutdown started
+2016-03-31 18:11:27.383+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now unavailable
+2016-03-31 18:11:27.413+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Starting check pointing...
+2016-03-31 18:11:27.417+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Starting store flush...
+2016-03-31 18:11:27.435+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Store flush completed
+2016-03-31 18:11:27.439+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Starting appending check point entry into the tx log...
+2016-03-31 18:11:27.516+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Appending check point entry into the tx log completed
+2016-03-31 18:11:27.520+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [99]:  Check pointing completed
+2016-03-31 18:11:27.523+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-03-31 18:11:27.527+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-03-31 18:11:29.173+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
+2016-03-31 18:11:29.178+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
+2016-03-31 18:11:29.178+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---
