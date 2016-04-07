@@ -52,5 +52,6 @@ RETURN length(nodes(p)) as hops;
 ## References
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database and manual.
 2. [Irish Political Maps](http://irishpoliticalmaps.blogspot.be/2015/06/confirmed-candidates-for-next-general_3.html), candidate, party and constituency information
-3. [DATA.GOV.IE] (https://data.gov.ie/data/search?res_format=CSV&metadata_created=%5B2015-12-00T00%3A00%3A01Z+TO+2016-1-00T00%3A00%3A01Z%5D&sort=date_released+desc), statistics regarding election
-4. [RTE News] (http://www.rte.ie/news/election-2016/candidates/), candidate information
+3. Learning Cypher - Onofrio Panzarino
+4. [DATA.GOV.IE] (https://data.gov.ie/data/search?res_format=CSV&metadata_created=%5B2015-12-00T00%3A00%3A01Z+TO+2016-1-00T00%3A00%3A01Z%5D&sort=date_released+desc), statistics regarding election
+5. [RTE News] (http://www.rte.ie/news/election-2016/candidates/), candidate information
